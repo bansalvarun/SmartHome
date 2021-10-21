@@ -6,7 +6,7 @@ ask-sdk-runtime==1.11.0
 ask-sdk-webservice-support==1.0.0
 asn1crypto==0.24.0
 astroid==2.2.5
-Babel==2.6.0
+Babel==2.9.1
 better-exceptions-fork==0.2.1.post6
 certifi==2018.11.29
 cffi==1.11.5

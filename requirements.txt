@@ -8,7 +8,7 @@ asn1crypto==0.24.0
 astroid==2.2.5
 Babel==2.6.0
 better-exceptions-fork==0.2.1.post6
-certifi==2018.11.29
+certifi==2022.12.7
 cffi==1.11.5
 chardet==3.0.4
 colorama==0.4.1
